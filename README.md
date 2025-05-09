@@ -5,7 +5,7 @@ Projet comparant les performances de SimpleRNN, LSTM et GRU sur l'analyse de sen
 ## Structure
 ```
 .
-├── notebooks/           # Notebook Jupyter
+├── Comparaison_RNN_LSTM_GRU.ipynb          # Notebook Jupyter
 ├── models/              # Modèles sauvegardés
 └── README.md            # Ce fichier
 ```
