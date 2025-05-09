@@ -20,13 +20,10 @@ Projet comparant les performances de SimpleRNN, LSTM et GRU sur l'analyse de sen
 
 
 ## Dataset
-IMDb dataset from tensorflow.keras.datasets.imdb
-
-50,000 movie reviews (25k for training, 25k for testing)
-
-Labels: 1 for positive, 0 for negative
-
-Limited vocabulary: Top 5,000 most frequent words
+- IMDb dataset from tensorflow.keras.datasets.imdb
+- 50,000 movie reviews (25k for training, 25k for testing)
+- Labels: 1 for positive, 0 for negative
+- Limited vocabulary: Top 5,000 most frequent words
 
 
 ## Utilisation
