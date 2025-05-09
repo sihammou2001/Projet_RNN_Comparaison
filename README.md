@@ -29,9 +29,9 @@ Projet comparant les performances de SimpleRNN, LSTM et GRU sur l'analyse de sen
 ## Utilisation
 1. Exécuter le notebook :
    ```bash
-   jupyter notebook notebooks/Comparaison_RNN.ipynb
+   jupyter notebook Comparaison_RNN_LSTM_GRU.ipynb
    ```
-2. Les modèles seront sauvegardés dans `models/`
+2. Les modèles sont sauvegardés dans `models/`
 
 ## Résultats Attendus
 | Architecture | Val Accuracy | Temps/Epoch |
