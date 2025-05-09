@@ -31,7 +31,7 @@ Projet comparant les performances de SimpleRNN, LSTM et GRU sur l'analyse de sen
    ```bash
    jupyter notebook Comparaison_RNN_LSTM_GRU.ipynb
    ```
-2. Les modèles sont sauvegardés dans `models/`
+2. Les modèles sont sauvegardés dans `models/` pour éviter un nouvel entraînement à chaque exécution du code (gain de temps).
 
 ## Résultats Attendus
 | Architecture | Val Accuracy | Temps/Epoch |
